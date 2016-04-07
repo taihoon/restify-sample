@@ -1,0 +1,29 @@
+{
+  "name": "restify-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express-restify-mongoose": "^3.2.1",
+    "mongoose": "^4.4.11",
+    "restify": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishu/restify-sample.git"
+  },
+  "keywords": [
+    "restify",
+    "express-mongoose-restify"
+  ],
+  "author": "Taihoon Kim <kishu@navercorp.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishu/restify-sample/issues"
+  },
+  "homepage": "https://github.com/kishu/restify-sample#readme"
+}
